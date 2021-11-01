@@ -1,0 +1,100 @@
+.App,
+.Date,
+.Dropdown,
+button,
+h1 {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  text-align: center;
+  color: purple;
+}
+
+.heading {
+  padding-top: 20px;
+}
+
+.myTable {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.farmerDrop,
+select {
+  width: 150px;
+}
+
+#farmerdd {
+  color: red;
+  display: inline-block;
+}
+
+.App {
+  margin-left: 10%;
+  margin-right: 10%;
+  background-color: white;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+td {
+  height: 60px;
+  /* border-bottom: 1px solid black; */
+  border: 2px solid grey;
+  padding: 0;
+  width: 25%;
+}
+
+th {
+  border: 2px solid grey;
+  width: 25%;
+}
+
+table {
+  border-collapse: collapse;
+}
+
+.reactSelect {
+  width: 100%;
+  height: 100%;
+  box-sizing: border-box;
+  color: orange;
+}
+
+body {
+  padding-top: 20px;
+  padding-bottom: 40px;
+  background-color: #dcf1f1;
+}
+.description {
+  width: 90%;
+  height: 150px;
+  margin-bottom: 30px;
+  resize: vertical;
+}
+
+.plotDrop {
+  width: 150px;
+  display: inline-block;
+  color: red;
+}
+
+.submitButton {
+  font-family: Verdana;
+  border: 0;
+  border-radius: 5%;
+  font-size: 20px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  width: 170px;
+  height: 50px;
+  background-color: #16aa52;
+  color: white;
+}
+
+.submitButton:hover {
+  background-color: #00732f;
+  cursor: pointer;
+}
+
+label {
+  font-weight: bold;
+}
