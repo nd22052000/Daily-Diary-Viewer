@@ -12,7 +12,7 @@ function FarmerDropdown(props) {
     { label: "Lobster", value: 6 }
   ];
 
-  const getFarmer = props.getFarmer;
+  // const getFarmer = props.getFarmer;
 
   // const [lastSelectedFarmer, setLastSelectedFarmer] = useState("None");
 
